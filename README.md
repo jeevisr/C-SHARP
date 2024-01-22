@@ -1,5 +1,5 @@
 # C-SHARP
-Hello World
-Arithmetic operation
-Amstorng Number
-Substring of strings
+1. Hello World
+2. Arithmetic operation
+3. Amstorng Number
+4. Substring of strings
